@@ -25,7 +25,7 @@ body {
 	display: block;
 	margin: 0 auto;
 	font-size: 72px;
-	font-family: sans-serif;
+	font-family: Times New Roman;
 	text-align: center;
 }
 
@@ -43,7 +43,7 @@ span {
 a {
 	margin: 10 auto;
 	font-size: 22px;
-	font-family: cursive;
+	font-family: Times New Roman;
 }
 
 #bib {
