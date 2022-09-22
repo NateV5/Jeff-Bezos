@@ -1,0 +1,63 @@
+img {
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+	display: block;
+	margin: 0 auto;
+	border: solid black;
+}
+
+body {
+	background-color: #00B6FF;	
+}
+
+
+
+.tributePage {
+	width: 900px;
+    display: block;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+#header
+{
+	display: block;
+	margin: 0 auto;
+	font-size: 72px;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+center
+{
+	margin: 0 auto;
+}
+
+span {
+	text-align: center;
+	margin: 0 30px;
+	font-size: 30px;
+}
+
+a {
+	margin: 10 auto;
+	font-size: 22px;
+	font-family: cursive;
+}
+
+#bib {
+	display: block;
+	margin: 20 auto;
+	text-align: center;
+}
+
+#btp {
+	display: block;
+	margin: 20 auto;
+	text-align: center;
+}
+
+h2 {
+	margin: 50 auto 0 auto;
+}
